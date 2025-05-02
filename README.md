@@ -1,5 +1,8 @@
 # AzureTextToSpeech Client #
 
+> [!NOTE]  
+> Move to [azure-cs-sdk](https://github.com/ho-229/azure-cs-sdk).
+
 > This is a fork of https://github.com/gmaisto/azuretexttospeech.
 
 ![Execute Test Cases](https://github.com/ho-229/azuretexttospeech/workflows/Execute%20Test%20Cases/badge.svg)
